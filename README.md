@@ -1,5 +1,5 @@
-Quantum neural network
-======================
+NNET | Scalable quantum neural network
+======================================
 
 **Author:** Denis Leonov <466611@gmail.com>
 
